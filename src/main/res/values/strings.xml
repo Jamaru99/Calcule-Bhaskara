@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Calcule Bhaskara</string>
+
+    <string name="action_about">Sobre</string>
+
+    <string name="urlInstagram"><a href="https://www.instagram.com/matt_hco">Instagram</a></string>
+    <string name="urlFacebook"><a href="https://www.facebook.com/profile.php?id=100003219533803">Facebook</a></string>
+    <string name="email">matheus-1199@hotmail.com</string>
+
+    <!-- -
+        This is an ad unit ID for a banner test ad. Replace with your own banner ad unit id.
+        For more information, see https://support.google.com/admob/answer/3052638
+    <!- -->
+    <string name="banner_ad_unit_id">ca-app-pub-1541045839364233/9821090109</string>
+</resources>
